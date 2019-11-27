@@ -1,6 +1,6 @@
 import twitter
 
-consumer_api_keys = "xxx" #incorrect one
+consumer_api_keys = "xxx"
 consumer_api_secret_key = "xxx"
 access_token = "xxx"
 access_secret_token = "xxx"
