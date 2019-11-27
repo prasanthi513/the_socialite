@@ -2,7 +2,6 @@ import requests
 import pyfacebook
 
 app_id = "xxx"
-app_id = "xxx"
 app_secret = "xxx"
 access_token = "xxx"
 
