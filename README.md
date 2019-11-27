@@ -3,6 +3,8 @@
 *The socialite can view what's currently happening in all his 3 social networking sites.
 Facebook, Twitter and Instagram*
 
+*The socialite can also view what's happening in each social site also*
+
 ### View all social feeds
 **Definitions**
 
